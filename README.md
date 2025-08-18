@@ -35,6 +35,7 @@ I'm a passionate Full Stack Developer with expertise in building modern web appl
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Tools & Services
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
@@ -106,6 +107,33 @@ A comprehensive automotive auction platform with real-time bidding, live auction
 - 📱 **Mobile-responsive API** design
 - 🚀 **Performance Optimized** with caching
 
+### 🛒 Shopping Basket Calculator
+
+A PHP-based shopping basket implementation demonstrating object-oriented programming principles with delivery charge calculation and special offers.
+
+#### **Repository:** [calc_deliv_fee](https://github.com/mawaisu77/calc_deliv_fee)
+
+**Tech Stack:**
+- **PHP 8+** with modern OOP features
+- **Object-Oriented Design** with SOLID principles
+- **Type Declarations** for better code safety
+- **Functional Programming** concepts with array functions
+
+**Key Features:**
+- 🛒 **Shopping Basket Management** with product catalog
+- 🚚 **Dynamic Delivery Charge Calculation** based on order value
+- 🎯 **Special Offers System** (Red Widget: Buy 1, Get 2nd Half Price)
+- 💰 **Automatic Discount Application** and total calculation
+- 🧪 **Comprehensive Test Cases** for different scenarios
+- 📦 **Product Management** with unique codes and pricing
+- 🔢 **Precise Financial Calculations** with 2 decimal places
+
+**Classes Implemented:**
+- **Product Class** - Product representation with code, name, and price
+- **DeliveryCalculator** - Calculates delivery charges based on thresholds
+- **OfferCalculator** - Handles special offers and discounts
+- **Basket** - Main shopping basket with total calculation logic
+
 ### 🏥 HRT (Healthcare Resource Tracker)
 
 A healthcare management system for tracking and managing healthcare resources efficiently.
@@ -174,6 +202,8 @@ A healthcare management system for tracking and managing healthcare resources ef
 - 🔐 **Implemented secure authentication** and authorization
 - 🌍 **Multi-language support** for international users
 - 📱 **Responsive design** for all device types
+- 🛒 **Developed OOP-based shopping cart** with dynamic pricing
+- 💰 **Implemented complex discount algorithms** and delivery calculations
 
 ---
 
