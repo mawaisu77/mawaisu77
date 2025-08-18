@@ -1,64 +1,182 @@
 # Hi there, I'm Awais 👋  
 
-🚀 **Software Engineer | 🌐 Full-Stack Developer | ☁️ DevOps & Cloud Enthusiast**  
-Passionate about building scalable apps, crafting clean code, and exploring cloud technologies.  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Car+Enthusiast;Problem+Solver;Code+Crafter" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mawaisu77&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate Full Stack Developer with expertise in building modern web applications, particularly in the automotive industry. I love creating seamless user experiences and robust backend systems that scale.
+
+- 🔭 **Currently working on:** Automotive auction platforms and e-commerce solutions
+- 🌱 **Learning:** Advanced React patterns, Microservices architecture, and Cloud deployment
+- 💬 **Ask me about:** React, Node.js, PostgreSQL, Real-time applications, and Car auctions
+- ⚡ **Fun fact:** I can debug code while dreaming about cars! 🚗💻
 
 ---
 
 ## 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=fff&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=fff&style=for-the-badge)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![PrimeReact](https://img.shields.io/badge/PrimeReact-0081CB?style=for-the-badge&logo=prime&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
+### Tools & Services
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 🏆 Featured Projects
 
-- [💳 E-commerce Backend (NestJS + Prisma)](https://github.com/mawaisu77/ecommerce-backend)  
-  Scalable e-commerce backend with secure payments and role-based authentication.  
+### 🚗 Lux Cars - Automotive Auction Platform
 
-- [🤖 AI Chatbot (Laravel + Gemini API)](https://github.com/mawaisu77/ai-chatbot)  
-  AI-driven chatbot with product search and ordering flows.  
+A comprehensive automotive auction platform with real-time bidding, live auctions, and complete e-commerce functionality.
 
-- [📊 DevOps Setup (Azure + GitHub Actions)](https://github.com/mawaisu77/devops-pipeline)  
-  Automated CI/CD pipeline with Helm, Bicep, and monitoring practices.  
+#### **Frontend Repository:** [lux-cars-frontend](https://github.com/mawaisu77/lux-cars-frontend)
 
-*(Add links to your real repos above!)*
+**Tech Stack:**
+- **React 18** with modern hooks and functional components
+- **Tailwind CSS** for responsive and beautiful UI design
+- **Material-UI & PrimeReact** for rich component library
+- **React Router** for seamless navigation
+- **Formik & Yup** for form validation
+- **React Hook Form** for efficient form handling
+- **i18next** for internationalization (English/French)
+- **Chart.js & Recharts** for data visualization
+- **Pusher** for real-time features
+- **React PDF** for document handling
+- **React Dropzone** for file uploads
+- **React Toastify** for notifications
+
+**Key Features:**
+- 🎯 **Live Auction System** with real-time bidding
+- 🚗 **Vehicle Management** with detailed specifications
+- 💰 **Payment Integration** with secure transactions
+- 📊 **Analytics Dashboard** with charts and reports
+- 🔍 **Advanced Search** with multiple filters
+- 📱 **Responsive Design** for all devices
+- 🌍 **Multi-language Support** (English/French)
+- 📧 **Email Notifications** system
+- 💳 **Fund Management** and transaction history
+- 🔐 **User Authentication** with JWT
+
+#### **Backend Repository:** [lux-cars-backend](https://github.com/mawaisu77/lux-cars-backend)
+
+**Tech Stack:**
+- **Node.js & Express.js** for robust API development
+- **PostgreSQL** with Sequelize ORM for data management
+- **JWT Authentication** for secure user sessions
+- **Pusher** for real-time communication
+- **Cloudinary** for image and file management
+- **Multer** for file upload handling
+- **Nodemailer** for email services
+- **Sentry** for error monitoring and performance tracking
+- **Winston** for comprehensive logging
+- **bcrypt** for password hashing
+- **Sharp** for image processing
+- **PDF Generation** with easyinvoice
+
+**Key Features:**
+- 🔥 **Real-time Bidding System** with live updates
+- 🏦 **Payment Processing** with multiple gateways
+- 📊 **Admin Dashboard** with comprehensive analytics
+- 🔍 **Advanced Search API** with filtering
+- 📧 **Email Automation** for notifications
+- 🛡️ **Role-based Access Control** (Admin/User)
+- 📈 **Analytics & Reporting** APIs
+- 🔐 **Secure Authentication** with refresh tokens
+- 📱 **Mobile-responsive API** design
+- 🚀 **Performance Optimized** with caching
+
+### 🏥 HRT (Healthcare Resource Tracker)
+
+A healthcare management system for tracking and managing healthcare resources efficiently.
+
+#### **Frontend Repository:** [hrt-fe](https://github.com/mawaisu77/hrt-fe)
+#### **Backend Repository:** [hrt-be](https://github.com/mawaisu77/hrt-be)
+
+**Tech Stack:**
+- **React** for frontend development
+- **Node.js** for backend services
+- **Modern JavaScript** (ES6+) throughout
+- **RESTful API** architecture
+
+**Key Features:**
+- 🏥 **Healthcare Resource Management**
+- 📊 **Resource Tracking & Analytics**
+- 👥 **User Management** for healthcare staff
+- 📱 **Responsive Interface** for mobile access
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Mawais's GitHub stats](https://github-readme-stats.vercel.app/api?username=mawaisu77&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mawaisu77&layout=compact&theme=radical)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mawaisu77&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mawaisu77&theme=radical" alt="GitHub Streak" />
+</div>
 
----
-
-## 🔥 Contribution Graph
-![Mawais's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mawaisu77&theme=github-dark)  
-
----
-
-## 🌱 Currently Learning
-- Advanced **TypeScript & GraphQL**  
-- **AWS Solution Architect** certification track  
-- **Kubernetes & KEDA** for event-driven workloads  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawaisu77&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
-- 🌐 [Portfolio Website](https://your-portfolio.com)  
-- 📧 Reach me at: `your-email@example.com`  
+## 🎯 What I'm Currently Working On
+
+- 🔄 **Real-time Features Enhancement** for auction platforms
+- 🚀 **Performance Optimization** of existing applications
+- 📱 **Mobile App Development** for automotive services
+- ☁️ **Cloud Migration** and deployment strategies
+- 🔒 **Security Improvements** and best practices implementation
 
 ---
 
-⭐️ From [mawaisu77](https://github.com/mawaisu77)  
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🚗 **Built a complete automotive auction platform** from scratch
+- ⚡ **Implemented real-time bidding** with sub-second latency
+- 📊 **Handled complex data analytics** and reporting
+- 🔐 **Implemented secure authentication** and authorization
+- 🌍 **Multi-language support** for international users
+- 📱 **Responsive design** for all device types
+
+---
+
+<div align="center">
+  <sub>⭐ Star this repository if you found it helpful!</sub>
+</div>
