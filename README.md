@@ -12,12 +12,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer with expertise in building modern web applications. I love creating seamless user experiences and robust backend systems that scale.
+Hi, I’m Awais 👋
+I’m a web developer who loves building apps that people actually use. Over the years, I’ve worked on different kinds of projects—like e-commerce platforms and even a car auction system where people could bid live in real time. Seeing something you built being used by others is one of the best feelings.
 
-- 🔭 **Currently working on:** Automotive auction platforms and e-commerce solutions
-- 🌱 **Learning:** Advanced React patterns, Microservices architecture, and Cloud deployment
-- 💬 **Ask me about:** React, Node.js, PostgreSQL, Real-time applications, and Car auctions
-- ⚡ **Fun fact:** I can debug code while dreaming about cars! 🚗💻
+These days, I’m focusing on learning and improving my skills. I’ve been exploring advanced React patterns, breaking apps into microservices, and trying out cloud deployment to make apps faster and more reliable. I enjoy experimenting with new tools and figuring out better ways to solve problems.
+
+Most of the time, you’ll find me coding, fixing bugs, or testing out new ideas. I get stuck sometimes (who doesn’t?), but I love the challenge that comes with solving tough problems. Honestly, I even catch myself thinking about code when I’m away from my desk—or dreaming about debugging when I sleep 😅.
+
+At the end of the day, I just enjoy building things, learning new skills, and sharing what I know with others.
 
 ---
 
