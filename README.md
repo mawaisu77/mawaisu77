@@ -1,7 +1,7 @@
 # Hi there, I'm Awais 👋  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Car+Enthusiast;Problem+Solver;Code+Crafter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Code+Crafter" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer with expertise in building modern web applications, particularly in the automotive industry. I love creating seamless user experiences and robust backend systems that scale.
+I'm a passionate Full Stack Developer with expertise in building modern web applications. I love creating seamless user experiences and robust backend systems that scale.
 
 - 🔭 **Currently working on:** Automotive auction platforms and e-commerce solutions
 - 🌱 **Learning:** Advanced React patterns, Microservices architecture, and Cloud deployment
@@ -36,6 +36,7 @@ I'm a passionate Full Stack Developer with expertise in building modern web appl
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Services
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
